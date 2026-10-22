@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.claude/
+stitch_human_ugc_studio_site/
+.DS_Store
+*.local
+.env
+.env.local
